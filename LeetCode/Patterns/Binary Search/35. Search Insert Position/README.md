@@ -1,6 +1,6 @@
 # 📝 35. Search Insert Position (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/search-insert-position)
+🔗 [Problem Link](https://leetcode.com/problems/search-insert-position/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,8 +8,8 @@
 Array, Binary Search
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 0 ms
+- **Memory:** 44.9 MB
 
 ---
 
