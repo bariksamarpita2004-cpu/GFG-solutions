@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs DSA core interview preparation list.
 
 ## Progress
-- **Completed:** 3 / 238 (1.3%)
+- **Completed:** 4 / 238 (1.7%)
 
 ---
 
@@ -155,7 +155,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 - [ ] Subsets
 - [ ] Two Sum
 - [x] [3Sum](./Java/Medium/15. 3Sum/)
-- [ ] 4Sum
+- [x] [4Sum](./Java/Medium/18. 4Sum/)
 - [ ] Subarray Sum Equals K
 - [ ] Subarray Product Less Than K
 - [ ] Maximum Length of Subarray With Positive Product
